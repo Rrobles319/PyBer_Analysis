@@ -12,5 +12,7 @@ PyBer CEO, V. Isualize has requested a breakdown of ride share date by city type
 ## Results:
 The following images depict the stark differences in Key Performance Indicators by city type:
 
-[![Fig1](https://user-images.githubusercontent.com/80009944/119478072-7f289780-bd1d-11eb-9c14-12c9c9c84490.png)
+![Fig1](https://user-images.githubusercontent.com/80009944/119478072-7f289780-bd1d-11eb-9c14-12c9c9c84490.png)
 ](url)
+![Fig2](https://user-images.githubusercontent.com/80009944/119478352-beef7f00-bd1d-11eb-87bd-8f22e3078efe.png)
+
